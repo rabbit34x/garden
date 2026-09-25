@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/x/readme/","tags":["gardenEntry"],"created":"2026-09-25T18:33:11.517+09:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/x/readme/","tags":["gardenEntry"],"created":"2026-09-25T18:33:15.354+09:00","dg-note-properties":{}}
 ---
 
-
-# README
 
 このVaultはDigital gardenの理念に基づいて作成されています。
 
