@@ -18,7 +18,7 @@
       "repo": "oleeskild/garden-plugin-garden-stats",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-09-26T06:17:33.735Z",
+      "installedAt": "2026-09-26T06:17:54.245Z",
       "enabled": true,
       "files": [
         "src/plugins/garden-stats/README.md",
