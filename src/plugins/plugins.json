@@ -26,7 +26,10 @@
         "src/plugins/garden-stats/index.js",
         "src/plugins/garden-stats/styles/stats.scss",
         "src/plugins/garden-stats/templates/stats.njk"
-      ]
+      ],
+      "settings": {
+        "topCount": 0
+      }
     }
   }
 }
