@@ -1,3 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap");
+
 body {
+    --font-japanese: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+
+    --font-text-theme: var(--font-japanese);
+    --font-text-override: var(--font-japanese);
+
+    --font-interface-theme: var(--font-japanese);
+    --font-interface-override: var(--font-japanese);
+
+    --heading-font: var(--font-japanese);
+
     --dg-content-font-size: 16px;
+    --dg-content-line-height: 1.8;
 }
