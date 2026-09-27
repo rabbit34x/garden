@@ -11,9 +11,11 @@ const render = (commitSha, showFooter = true) => env.renderString(source, { plug
 
 test("local builds render required links without a commit", () => {
   const html = render(undefined);
-  assert.match(html, /© 2026 rabbit34/);
+  assert.match(html, /© 2026 kn_iidx/);
   assert.match(html, /href="https:\/\/rabbit34.org\/"/);
   assert.match(html, /href="https:\/\/github.com\/rabbit34x\/garden"/);
+  assert.match(html, />rabbit34.org<\/a>/);
+  assert.match(html, />rabbit34x\/garden<\/a>/);
   assert.doesNotMatch(html, /Commit |\/commit\//);
 });
 
