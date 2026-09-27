@@ -5,10 +5,12 @@ Digital Garden公式Garden Plugin APIの `common.footer` slot にフッターを
 
 ## 表示内容
 
-- © 2026 rabbit34（指定された固定年）
-- Personal Website: https://rabbit34.org/
-- GitHub Repository: https://github.com/rabbit34x/garden
+- © 2026 kn_iidx（指定された固定年）
+- rabbit34.org: https://rabbit34.org/
+- rabbit34x/garden: https://github.com/rabbit34x/garden
 - Commit: デプロイSHAの先頭7文字。リンクには完全なSHAを使用。
+
+各項目を縦に並べます。リンクはテーマの控えめな文字色を使い、ホバー時とキーボードフォーカス時に通常の文字色へ切り替えます。下線は常に表示します。
 
 ## 仕組み
 
