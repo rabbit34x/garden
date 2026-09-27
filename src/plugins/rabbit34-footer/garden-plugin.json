@@ -1,0 +1,28 @@
+{
+  "id": "rabbit34-footer",
+  "name": "Rabbit34 Footer",
+  "version": "1.0.0",
+  "description": "A theme-aware footer with personal links and optional deployment commit metadata.",
+  "author": "rabbit34",
+  "hooks": "index.js",
+  "slots": {
+    "common.footer": "templates/footer.njk"
+  },
+  "styles": ["styles/footer.css"],
+  "settings": [
+    {
+      "key": "showFooter",
+      "name": "Show footer",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "key": "commitSha",
+      "name": "Deployment commit SHA",
+      "description": "Defaults to Vercel's deployment SHA. Empty or invalid values hide the commit link.",
+      "type": "text",
+      "default": "",
+      "env": "VERCEL_GIT_COMMIT_SHA"
+    }
+  ]
+}
