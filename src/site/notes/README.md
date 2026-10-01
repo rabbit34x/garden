@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-14T21:41:26.917+09:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":"","created":"2026-10-01T13:21:52.919+09:00","dg-note-properties":{}}
 ---
 
 
 このVaultはDigital gardenの理念に基づいて作成されています。
+
+## 管理者情報
+
+x.com: [kn_iidx](https://x.com/kn_iidx)
+個人サイト: [rabbit34.org](https://rabbit34.org)
 
 ## 構造
 
