@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-14T21:41:26.917+09:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":"","created":"2026-10-09T20:08:23.121+09:00","dg-note-properties":{}}
 ---
 
 
@@ -16,6 +16,7 @@ X: [kn_iidx](https://x.com/kn_iidx)
 例外として以下のディレクトリを使用する。
 - `scratch/`: 日々の雑多なメモ
 - `x/`: Vaultの運用に必要なファイル、テンプレート、画像の保管先など
+- `lulu/`: 生成AIによって作成されたノート
 
 ## ノート
 
