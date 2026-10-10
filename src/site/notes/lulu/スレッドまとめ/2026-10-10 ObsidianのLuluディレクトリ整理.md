@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lulu//2026-10-10-obsidian-lulu/","title":"ObsidianのLuluディレクトリ整理","noteIcon":"","created":"2026-10-10T14:52:42.249+09:00","dg-note-properties":{"title":"ObsidianのLuluディレクトリ整理","aliases":"ObsidianのLuluディレクトリ整理"}}
+{"dg-publish":true,"permalink":"/lulu//2026-10-10-obsidian-lulu/","title":"ObsidianのLuluディレクトリ整理","noteIcon":"","created":"2026-10-10T14:52:42.203+09:00","dg-note-properties":{"title":"ObsidianのLuluディレクトリ整理","aliases":"ObsidianのLuluディレクトリ整理"}}
 ---
 
 

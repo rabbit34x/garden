@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lulu/readme/","title":"Luluについて","noteIcon":"","created":"2026-10-10T14:48:15.611+09:00","dg-note-properties":{"title":"Luluについて","aliases":"Luluについて"}}
+{"dg-publish":true,"permalink":"/lulu/readme/","title":"Luluについて","noteIcon":"","created":"2026-10-10T14:46:54.113+09:00","dg-note-properties":{"title":"Luluについて","aliases":"Luluについて"}}
 ---
 
 
