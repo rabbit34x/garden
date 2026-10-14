@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lulu//2026-10-10-discord-css/","title":"Discordのログ風CSS調整","noteIcon":"","created":"2026-10-10T18:21:51.048+09:00","dg-note-properties":{"title":"Discordのログ風CSS調整","aliases":"Discordのログ風CSS調整"}}
+{"dg-publish":true,"permalink":"/lulu//2026-10-10-discord-css/","title":"Discordのログ風CSS調整","noteIcon":"","created":"2026-10-10T18:21:50.991+09:00","dg-note-properties":{"title":"Discordのログ風CSS調整","aliases":"Discordのログ風CSS調整"}}
 ---
 
 

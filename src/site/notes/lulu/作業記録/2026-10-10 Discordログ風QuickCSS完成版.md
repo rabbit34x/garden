@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lulu//2026-10-10-discord-quick-css/","title":"Discordログ風UI再設定ガイド","noteIcon":"","created":"2026-10-10T18:21:41.432+09:00","dg-note-properties":{"title":"Discordログ風UI再設定ガイド","aliases":"Discordログ風UI再設定ガイド"}}
+{"dg-publish":true,"permalink":"/lulu//2026-10-10-discord-quick-css/","title":"Discordログ風UI再設定ガイド","noteIcon":"","created":"2026-10-10T18:21:41.389+09:00","dg-note-properties":{"title":"Discordログ風UI再設定ガイド","aliases":"Discordログ風UI再設定ガイド"}}
 ---
 
 
